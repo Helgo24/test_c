@@ -10,7 +10,7 @@ namespace Test_GitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oiso jetz müsste es gehen, probiert es mal. :)");
+            Console.WriteLine("Oiso jetz müsste es gehen, probiert es mal :)");
             Console.ReadLine();
         }
     }
